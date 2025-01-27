@@ -34,7 +34,13 @@ the amplitude of this sine wave, which is the runout of the spindle!
 
 # Results
 
+Processed data showing runout:
+
 ![plot](./.images/result_old_spindle.png)
+
+Raw data:
+
+![raw data plot](./.images/raw_old_spindle.png)
 
 # Info about the measurement
 
