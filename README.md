@@ -1,6 +1,10 @@
+# Methodology
+
+[![video](https://img.youtube.com/vi/R3dG70C5ZAU/0.jpg)](https://www.youtube.com/watch?v=R3dG70C5ZAU)
+
 # Results
 
-![plot](./images/result_old_spindle.png)
+![plot](./.images/result_old_spindle.png)
 
 # Info about the measurement
 
