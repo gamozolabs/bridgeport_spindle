@@ -7,7 +7,7 @@ set grid
 set xrange [0:]
 set yrange [0:]
 
-set title "Spindle runout on the Bridgeport"
+set title "Spindle runout on the Bridgeport (original spindle)"
 
 set xlabel "Z offset from spindle nose (mm)"
 set ylabel "Runout (um)"
